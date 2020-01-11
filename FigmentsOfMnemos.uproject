@@ -13,10 +13,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "AISupport",
-			"Enabled": false
-		},
-		{
 			"Name": "AlembicImporter",
 			"Enabled": false
 		},
